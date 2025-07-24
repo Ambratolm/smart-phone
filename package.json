@@ -1,0 +1,19 @@
+{
+  "name": "smart-phone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "markdown-toc -i README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambratolm/smart-phone.git"
+  },
+  "author": "Ambratolm <ambratolm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ambratolm/smart-phone/issues"
+  },
+  "homepage": "https://github.com/Ambratolm/smart-phone#readme"
+}
