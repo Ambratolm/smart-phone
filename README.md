@@ -18,7 +18,9 @@ This comprehensive guide is designed to assist users in selecting an affordable 
   - [6. Battery](#6-battery)
   - [7. Operating System](#7-operating-system)
   - [8. Connectivity](#8-connectivity)
-  - [9. Build Quality/Durability](#9-build-qualitydurability)
+  - [9. Sound](#9-sound)
+  - [10. Sensors](#10-sensors)
+  - [11. Build Quality/Durability](#11-build-qualitydurability)
 - [📚 References](#%F0%9F%93%9A-references)
 - [📄 License](#%F0%9F%93%84-license)
 
@@ -93,7 +95,23 @@ This comprehensive guide is designed to assist users in selecting an affordable 
 | Bluetooth                      | 5.0 - 5.4   | 5.1+        |
 | Near Field Communication (NFC) | No/Yes      | Yes         |
 
-### 9. Build Quality/Durability
+### 9. Sound
+
+| Specification  | Available              | Recommended        |
+| -------------- | ---------------------- | ------------------ |
+| Speakers       | Single, Stereo         | Stereo             |
+| Headphone Jack | Yes/No                 | Yes                |
+| Audio Quality  | Standard, Hi-Res, LDAC | Hi-Res if possible |
+
+### 10. Sensors
+
+| Specification    | Available                                               | Recommended                                  |
+| ---------------- | ------------------------------------------------------- | -------------------------------------------- |
+| Fingerprint      | None, In-display, Side-mounted                          | In-display or Side-mounted                   |
+| Face Unlock      | Yes/No                                                  | Yes                                          |
+| Standard Sensors | Accelerometer, Gyroscope, Proximity, Compass, Barometer | Accelerometer, Gyroscope, Proximity, Compass |
+
+### 11. Build Quality/Durability
 
 | Specification                  | Available              | Recommended |
 | ------------------------------ | ---------------------- | ----------- |
